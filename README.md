@@ -66,7 +66,6 @@ Distance: 1251 mm
 
 ## 电路图
 
-把电路图保存到仓库的 `hardware` 文件夹中，然后在 README 中使用：
 
 ```md
 ![电路图](hardware/wiring-diagram.png)
