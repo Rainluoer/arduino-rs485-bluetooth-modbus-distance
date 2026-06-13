@@ -67,9 +67,8 @@ Distance: 1251 mm
 ## 电路图
 
 
-```md
+
 ![电路图](hardware/wiring-diagram.png)
-```
 
 ## 许可证
 
